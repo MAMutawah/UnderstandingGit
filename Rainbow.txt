@@ -5,10 +5,10 @@ Pink
 Orange
 Blue
 Green
+Indgo
 Unicorn
 Yellow
 Red
 
 These are the colors of the rainbow.
 And the unicorn.
-From master branch.
