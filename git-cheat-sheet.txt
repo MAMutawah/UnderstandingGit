@@ -1,0 +1,21 @@
+This File will be a refrence for me if I get lost in Git Later.
+
+We have 4 stages. 
+- Workspace 
+- Index (Stage)
+- Local repository (Head)
+- Remote repository
+
+
+1. To get the file from exected repository:
+  $ git clone <URL>
+2. To add the changes from workspace to index we use: 
+  $ git add <File>
+3. To check the status of our git repository in which stage:
+  $ git status
+4. To add the changes from index to Local repository: 
+  $ git commit
+5. To check what is got updated between Local repository & Workspace
+  $ git diff HEAD
+6. To check what got updated between Index & Workspace in spicific file
+  $ git diff <File Name>
