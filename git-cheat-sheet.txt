@@ -25,10 +25,25 @@ Notes:
   $ git log
 9. To send all commited updates from Local repository to Remote repository:
   $ git push
-
+10. To view all branches in the repository:
+  $ git branch
+11. To create a new branch
+  $ git branch <New Branch Name>
+12. To move between a branch to another
+  $ git checkout <Targeted branch name>
+13. To create a branch and move to it dirctly
+  $ git checkout -b <New Branch Name>
 
 Other Commands ! 
 A. 
   $ git show <Commit ID>
 B. 
   $ git remote -v
+C.
+  $ git merge <Targeted branch to merge>
+D. 
+  $ git branch -d <Targeted branch to delete>
+E. 
+  $ git pull
+F. 
+  $ git fetch
