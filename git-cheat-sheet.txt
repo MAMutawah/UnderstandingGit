@@ -1,10 +1,10 @@
 This File will be a refrence for me if I get lost in Git Later.
 
-We have 4 stages. 
-- Workspace 
-- Index (Stage)
-- Local repository (Head)
-- Remote repository
+We have 4 stages 
+- Workspace.
+- Index (Stage).
+- Local repository (Head).
+- Remote repository.
 
 Notes: 
 1. To get the file from exected repository:
@@ -34,6 +34,9 @@ Notes:
 13. To create a branch and move to it dirctly
   $ git checkout -b <New Branch Name>
 
+
+  --
+  
 Other Commands ! 
 A. 
   $ git show <Commit ID>
