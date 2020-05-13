@@ -6,7 +6,7 @@ We have 4 stages.
 - Local repository (Head)
 - Remote repository
 
-
+Notes: 
 1. To get the file from exected repository:
   $ git clone <URL>
 2. To add the changes from Workspace to index we use: 
@@ -23,11 +23,12 @@ We have 4 stages.
   $ git commit -a -m "Comment"
 8. See the virsion hestory of our repository:
   $ git log
+9. To send all commited updates from Local repository to Remote repository:
+  $ git push
 
 
 Other Commands ! 
 A. 
   $ git show <Commit ID>
 B. 
-  $ git remote -v 
-C. 
+  $ git remote -v
