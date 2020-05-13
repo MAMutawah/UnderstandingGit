@@ -21,6 +21,12 @@ Trying Git and understand the concept clearly by an example.
 
 # Commands
 
+1. To get the file from exected repository:
+
+```bash
+  git clone <URL>
+```
+
 # extra notes
 
 - Committing an update can have a note with it.
