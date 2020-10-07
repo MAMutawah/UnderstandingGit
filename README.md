@@ -32,8 +32,12 @@ Tring Git and understand the concept clearly by an example.
 __Bold__
 (Doble Underscore)
 
+_Italic_
+(Single Underscore) 
+
 ## Links 
 (Square brackets)
+
 [Markdown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) 
 [another resource] (https://commonmark.org/help/)
 
@@ -47,3 +51,6 @@ __Bold__
 2. two 
 
 ### Nested Lists 
+1. One
+1.1 One of One
+2. Two 
