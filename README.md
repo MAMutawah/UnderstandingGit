@@ -18,3 +18,32 @@ Tring Git and understand the concept clearly by an example.
 -	You can create a branch from another branch. =b.
 -	The version in the other branch may change.
 -	In merging, you may merge specific part not all the changes. 
+
+
+# .md file 
+
+
+## Header
+(Hashtage) for the header number. 
+
+
+
+## Style
+__Bold__
+(Doble Underscore)
+
+## Links 
+(Square brackets)
+[Markdown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) 
+[another resource] (https://commonmark.org/help/)
+
+## Lists
+### unordered list (minus sign)
+- One
+- two
+
+### ordered list (numbering)
+1. one 
+2. two 
+
+### Nested Lists 
