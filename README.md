@@ -36,10 +36,10 @@ _Italic_
 (Single Underscore) 
 
 ## Links 
-(Square brackets)
+(Square brackets followed by round brackets without space in between)
 
-[Markdown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) 
-[another resource] (https://commonmark.org/help/)
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) 
+[another resource](https://commonmark.org/help/)
 
 ## Lists
 ### unordered list (minus sign)
@@ -52,5 +52,6 @@ _Italic_
 
 ### Nested Lists 
 1. One
-1.1 One of One
+- One of One
 2. Two 
+-- One of two 
