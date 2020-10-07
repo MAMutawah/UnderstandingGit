@@ -21,35 +21,27 @@ Tring Git and understand the concept clearly by an example.
 
 
 # .md file 
-
-
 ## Header
 (Hashtage) for the header number. 
-
-
-
 ## Style
 __Bold__
 (Doble Underscore)
 
 _Italic_
 (Single Underscore) 
-
 ## Links 
 (Square brackets followed by round brackets without space in between)
 
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) 
-[another resource](https://commonmark.org/help/)
 
+[Another resource](https://commonmark.org/help/)
 ## Lists
 ### unordered list (minus sign)
 - One
 - two
-
 ### ordered list (numbering)
 1. one 
 2. two 
-
 ### List of Lists 
 - level 1 para 1
 
