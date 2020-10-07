@@ -51,7 +51,7 @@ _Italic_
 2. two 
 
 ### Nested Lists 
-1. One
-- One of One
-2. Two 
--- One of two 
+* One
+  * One of One
+* Two 
+  * One of two 
